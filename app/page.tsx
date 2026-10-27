@@ -928,7 +928,7 @@ export default function Home() {
                       </span>
 
                       <span className="text-xl font-extrabold text-red-500">
-                        $800
+                        $750
                       </span>
 
                     </div>
@@ -941,7 +941,7 @@ export default function Home() {
                       </span>
 
                       <span className="text-xl font-extrabold text-red-500">
-                        $1,600
+                        $1,500
                       </span>
 
                     </div>
@@ -954,7 +954,7 @@ export default function Home() {
                       </span>
 
                       <span className="text-xl font-extrabold text-red-500">
-                        $3,200
+                        $3,000
                       </span>
 
                     </div>
@@ -1127,16 +1127,16 @@ export default function Home() {
                         Select an option
                       </option>
 
-                      <option value="Quarter Beef - $800">
-                        Quarter Beef — $800
+                      <option value="Quarter Beef - $750">
+                        Quarter Beef — $750
                       </option>
 
-                      <option value="Half Beef - $1,600">
-                        Half Beef — $1,600
+                      <option value="Half Beef - $1,500">
+                        Half Beef — $1,500
                       </option>
 
-                      <option value="Whole Beef - $3,200">
-                        Whole Beef — $3,200
+                      <option value="Whole Beef - $3,000">
+                        Whole Beef — $3,000
                       </option>
 
                       <option value="Not Sure Yet">
